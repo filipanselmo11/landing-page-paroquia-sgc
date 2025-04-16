@@ -3,8 +3,8 @@
 export default function Contato() {
     return (
         <section className="mt-16 px-4 max-w-4xl mx-auto text-center">
-            <h2 className="text-3xl font-bold text-blue-700 mb-4">Contato</h2>
-            <p className="text-gray-700 mb-6">Entre em contato conosco pelo WhatsApp ou envie um e-mail.</p>
+            <h2 className="text-3xl font-bold text-white mb-4">Contato</h2>
+            <p className="text-blue-700 mb-6">Entre em contato conosco pelo WhatsApp ou envie um e-mail.</p>
             <div className="flex justify-center gap-6 flex-wrap">
                 <a
                     href="https://wa.me/SEUNUMERO"
